@@ -9,7 +9,7 @@
     "react-dom": "^16.7.0",
     "react-full-screen": "^0.2.3",
     "react-responsive": "^5.0.0",
-    "react-scripts": "1.1.4",
+    "react-scripts": "5.0.1",
     "react-sizeme": "^2.5.2",
     "socket.io-client": "^2.2.0"
   },
